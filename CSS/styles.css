@@ -700,7 +700,10 @@ ul.social-icons {
 .form-inputs2 select {
     color: white;
 }
-
+.form-inputs2 option{
+    background-color: white;
+    color: black;
+}
 .form-inputs2 textarea {
     padding-top: 15px;
     height: 170px;
